@@ -17,7 +17,7 @@ I’m Akash Yadav, a Java developer focused on backend engineering and fundament
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/akashyadav27/akashyadav27/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 
