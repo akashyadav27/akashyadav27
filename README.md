@@ -12,7 +12,11 @@ A Java Backend Developer focused on fundamentals-first problem solving and build
 - ⚡ **Fun fact:**   I don’t chase trends—I debug them until they make sense 😄
 
 # 💫 About Me:
-I’m Akash Yadav, a Java developer focused on backend engineering and fundamentals-first problem solving 🧠⚙️<br>I work primarily with Core Java, OOP, Collections, JDBC, Hibernate, MySQL, and actively sharpen DSA and low-level concepts that actually matter in real systems. I don’t chase trends or certificates—I build, break, and rebuild until the logic is solid 🔁<br>My GitHub is a workbench, not a showroom 🛠️<br>You’ll find real projects, backend logic, database integration, and code that improves over time. If something isn’t perfect, it’s because I’m iterating—not pretending.<br>🎯 Goal: Secure a Java backend role and grow into an engineer who writes clean, scalable, production-grade code.<br>I optimize for:<br>📌 fundamentals over buzzwords<br>✂️ clarity over clever hacks<br>📈 long-term skill over short-term hype.
+I’m Akash Yadav, a Java developer focused on backend engineering and fundamentals-first problem solving 🧠⚙️<br>I work primarily with Core Java, OOP, Collections, JDBC, Hibernate, MySQL, and actively sharpen DSA and low-level concepts that actually matter in real systems. I don’t chase trends or certificates—I build, break, and rebuild until the logic is solid 🔁<br>My GitHub is a workbench, not a showroom 🛠️<br>You’ll find real projects, backend logic, database integration, and code that improves over time. If something isn’t perfect, it’s because I’m iterating—not pretending.
+
+<br>🎯 Goal: Secure a Java backend role and grow into an engineer who writes clean, scalable, production-grade code.
+
+<br>I optimize for:<br>📌 fundamentals over buzzwords<br>✂️ clarity over clever hacks<br>📈 long-term skill over short-term hype.
 
 
 <!-- Snake Game Repo View -->
